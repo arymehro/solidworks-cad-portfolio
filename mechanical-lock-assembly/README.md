@@ -10,10 +10,10 @@ The design demonstrates how multiple components interact through mechanical mate
 - Mechanical Mates
 
 ## Isometric View
-![Isometric](images/lock_isometric_view.png)
+![Isometric](images/lock_isometeric_view.png)
 
 ## Exploded Assembly
-![Exploded](images/lock_exploded_view.png)
+![Exploded](images/lock_explioded_view.png)
 
 ## Locked Position
 ![Locked](images/lock_locked_front_view.png)
